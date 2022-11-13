@@ -41,4 +41,4 @@ Przechowywany będzie ostatnio pobrany przelicznik walut. Dane będą wykorzysty
 
 ## Repozytorium
 
-<Adres strony głównej repozytorium GitHub, Gitlab, itd.>
+[](https://github.com/qymaensheel/CurrencyApp)
