@@ -6,8 +6,8 @@ CurrencyApp
 
 ## Autor/Autorzy
 
-- Bartosz Nieroda, bnieroda@student.agh.edu.pl
-- Tomasz Wojakowski, twojakowski@student.agh.edu.pl
+- [Bartosz Nieroda](https://github.com/qymaensheel), bnieroda@student.agh.edu.pl
+- [Tomasz Wojakowski](https://github.com/Wojaqqq), twojakowski@student.agh.edu.pl
 
 ## Wizja aplikacji
 
